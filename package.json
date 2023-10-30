@@ -1,0 +1,16 @@
+{
+  "name": "mochatest",
+  "version": "1.0.0",
+  "description": "a simple mocha chai test",
+  "type": "module",
+  "main": "app.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "chai": "^4.3.10",
+    "mocha": "^10.2.0"
+  }
+}
